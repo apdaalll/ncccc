@@ -589,7 +589,7 @@ scene.add(planet);
 const ringTexts = [
   "Woi cianjur",//untuk deskripsi planet layer 1
   "km suka kodok?",//untuk deskripsi planet layer 2
-  "(￣へ ￣ 凸",//untuk deskripsi planet layer 3
+  "stop bilang venom",//untuk deskripsi planet layer 3
   "Hehe bercanda(⁠⁠╹⁠▽⁠╹⁠⁠)",//untuk deskripsi planet layer 4
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
